@@ -28,3 +28,7 @@ iOSエンジニア。1991年生まれ。
 * [Qiita](http://qiita.com/d_date)
 
 * [Medium](https://medium.com/@d_date)
+
+## LT
+
+* [Speaker Deck](https://speakerdeck.com/d_date)
