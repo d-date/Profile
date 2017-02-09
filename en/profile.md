@@ -30,10 +30,14 @@ To making good app for user, I'm trying not to forget the eye's of user.
 
 * [GitHub - @d-date](https://github.com/d-date)
 
-## 記事 / publication
+## publication
 
 * [Realm News](https://realm.io/jp/news/)
 
 * [Qiita](http://qiita.com/d_date)
 
 * [Medium](https://medium.com/@d_date)
+
+## LT
+
+* [Speaker Deck](https://speakerdeck.com/d_date)
