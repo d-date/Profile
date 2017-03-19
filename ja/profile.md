@@ -5,11 +5,6 @@ iOSエンジニア。1991年生まれ。
 業務外でもObjective-C時代からのiOS開発の知見を活かし、Realmのニュース記事の翻訳や、エンジニア向けの勉強会での知見共有に努める。
 
 ## 写真 / icons
-### Twitter
-
-![img](../imgs/twitter.jpg)
-
-### Facebook
 
 ![facebook](../imgs/facebook.jpg)
 
