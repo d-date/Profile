@@ -10,11 +10,6 @@ After releasing app, I've watching user's interests and growth up by marketing a
 To making good app for user, I'm trying not to forget the eye's of user.
 
 ## icons
-### Twitter
-
-![img](../imgs/twitter.jpg)
-
-### Facebook
 
 ![facebook](../imgs/facebook.jpg)
 
