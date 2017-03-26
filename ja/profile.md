@@ -36,7 +36,7 @@ iOSエンジニア。1991年生まれ。
 
 ## Meetup
 
-#### [Creators Learning English Meetup](Creators Learning English Meetup) / Core Staff
+#### [Creators Learning English Meetup](https://clem.connpass.com/) / Core Staff
 
 英語をがんばりたいエンジニアやデザイナーが集まって、知見を共有しあうミートアップです。LT枠の他に、実際に英語を使って仕事をしている方をゲストとしてお招きしています。
 
