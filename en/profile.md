@@ -11,19 +11,21 @@ To making good app for user, I'm trying not to forget the eye's of user.
 
 ## icons
 
-![facebook](../imgs/facebook.jpg)
+![facebook](../imgs/IMG_7188.JPG.jpg)
 
 ## SNS
+
+prefer to contact via Facebook / Twitter
+
+* [Facebook - Daiki Matsudate](https://www.facebook.com/matsudate.daiki)
+
+* [Twitter @d_date](https://twitter.com/d_date)
+
+* [GitHub - @d-date](https://github.com/d-date)
 
 * [Linked In](https://www.linkedin.com/in/daiki-matsudate-728272128)
 
 * [Upwork](https://www.upwork.com/o/profiles/users/_~01fdb03fcde98b0f90/)
-
-* [Twitter @d_date](https://twitter.com/d_date)
-
-* [Facebook - Daiki Matsudate](https://www.facebook.com/matsudate.daiki)
-
-* [GitHub - @d-date](https://github.com/d-date)
 
 ## publication
 

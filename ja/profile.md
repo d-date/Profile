@@ -1,34 +1,44 @@
-# 松館 大輝 / Daiki Matsudate
+## 松館 大輝 / Daiki Matsudate
 
-iOSエンジニア。1991年生まれ。
-大学在学中から大学近くのITベンチャーに住み込みでiPhoneアプリ開発を始める。卒業後も自社サービス、受託開発の開発/運用/保守など、様々なネイティブアプリの開発の立ち上げや、運用に関わっている。
-業務外でもObjective-C時代からのiOS開発の知見を活かし、Realmのニュース記事の翻訳や、エンジニア向けの勉強会での知見共有に努める。
+![facebook](../imgs/IMG_7188.JPG)
 
-## 写真 / icons
+- iOSアプリの開発
+- 技術記事の翻訳
+- 技術コミュニティの勉強会の主催/運営
 
-![facebook](../imgs/facebook.jpg)
+## 略歴
+
+|年月| |
+|:--|:--|
+|2011年1月|株式会社スフィダンテにてiOSアプリ開発を始める|
+|2014年3月|東京理科大学基礎工学部材料工学科 卒業|
+|2014年4月|株式会社スフィダンテ入社|
+|2016年8月|株式会社スフィダンテ退職|
+|2016年10月|株式会社GA technologies入社|
+|2017年4月|株式会社GA technologies退職|
+|現在|フリーランスのiOSエンジニアとして数社でiOSアプリ開発業務を行う傍ら、Realm Newsの翻訳や、カンファレンス・勉強会運営など、技術コミュニティへの貢献も積極的におこなっています。|
 
 ## SNS
 
-* [Twitter @d_date](https://twitter.com/d_date)
-
-* [Facebook - Daiki Matsudate](https://www.facebook.com/matsudate.daiki)
-
-* [GitHub - @d-date](https://github.com/d-date)
+- [Twitter @d_date](https://twitter.com/d_date)
+- [Facebook - Daiki Matsudate](https://www.facebook.com/matsudate.daiki)
+- [GitHub - @d-date](https://github.com/d-date)
 
 ## 記事 / publication
 
 #### [Realm News](https://realm.io/jp/news/)
-
-世界中のカンファレンスの書き起こしなど、Realmから出ている記事を日本語に翻訳しています。
+Realm Newsにはモバイルアプリ開発やその周辺技術に関するトピックが記事として配信されており、その翻訳を一部請け負っています。カンファレンスでのトークの書き起こしなど、日本語で配信されることが少ないトピックが配信される記事媒体となっており、日本のアプリ開発者の注目も高いです。
 
 #### [Medium](https://medium.com/@d_date)
-
-自身のブログを立てる代わりに、Mediumに投稿しています(試験運用中)。
+自身のブログを立てる代わりに、Mediumに投稿しています。
 
 #### [Qiita](http://qiita.com/d_date)
 
 業務上必要になった知識(公開情報に限る)や、勉強会でのまとめ記事を投稿しています。
+
+一番人気の記事は、Swift4の情報のキャッチアップが世の中的に進んでない中書いた、こちらの記事です。
+
+- [Swift4で何が変わりそうなのか](http://qiita.com/d_date/items/b3562f542afc306791ce)
 
 ## LT
 
@@ -40,12 +50,19 @@ iOSエンジニア。1991年生まれ。
 
 英語をがんばりたいエンジニアやデザイナーが集まって、知見を共有しあうミートアップです。LT枠の他に、実際に英語を使って仕事をしている方をゲストとしてお招きしています。
 
+会の雰囲気は何度かブログにまとめています。
+
+- [普段はiOSエンジニアの方が英語の話をするとすごかった](https://medium.com/@d_date/bd5ddd06fb21)
+- [CfPを出して、カンファレンスで登壇しよう](https://medium.com/@d_date/ebfb78d24945)
+
 #### [try!Swift 2017 TOKYO](https://www.tryswift.co/tokyo/jp) / Staff
 
 2017年3月に新宿で開催された、Swiftの国際カンファレンスです。
 
-try!Swiftで何をしてきたかは、記事にまとめました。 [カンファレンスを120%楽しむ方法、あるいは次回に向けて](https://medium.com/@d_date/%E3%82%AB%E3%83%B3%E3%83%95%E3%82%A1%E3%83%AC%E3%83%B3%E3%82%B9%E3%82%92120-%E6%A5%BD%E3%81%97%E3%82%80%E6%96%B9%E6%B3%95-%E3%81%82%E3%82%8B%E3%81%84%E3%81%AF%E6%AC%A1%E5%9B%9E%E3%81%AB%E5%90%91%E3%81%91%E3%81%A6-9a19f9ba0c1e#.38vbs9ts4)
+try!Swiftで何をしてきたかは、記事にまとめました。 [カンファレンスを120%楽しむ方法、あるいは次回に向けて](https://medium.com/@d_date/9a19f9ba0c1e)
 
-#### [Fastlane勉強会](https://fastlane.connpass.com/) / Core Staff
+現在、[2018年](https://www.tryswift.co/events/2018/tokyo/en/)の開催に向け、Organizerの一人として活動しています。
 
-Fastlaneという自動化ツールの勉強会です。Fastlaneを使うことで、アプリのデプロイ作業を自動化するなど、コーディング以外の手間のかかる部分を自動化したり、CIと連携してテスト版アプリの自動配信を行うことができます。fastlaneの製作者であるFelix Krauseとも交流があり、日本のfastlaneのミートアップとして認知してもらっています。
+#### [fastlane勉強会](https://fastlane.connpass.com/) / Core Staff
+
+[fastlane](https://fastlane.tools/)というiOS/Androidでよく使われるCLIツールに関する勉強会です。fastlaneを使うことで、アプリのデプロイ作業を自動化するなど、コーディング以外の手間のかかる部分を自動化したり、CIと連携してテスト版アプリの自動配信を行うことができます。fastlaneの製作者であるFelix Krauseとも交流があります。
