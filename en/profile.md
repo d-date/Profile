@@ -44,6 +44,6 @@ English meetup for english learner of engineers / designers
 
 The swift conference in Tokyo.
 
-#### [fastlane勉強会](https://fastlane.connpass.com/) / Core Staff
+#### [fastlane meetup in Tokyo](https://fastlane.connpass.com/) / Core Staff
 
 The [fastlane](https://fastlane.tools/) funclub meetup in Tokyo. The fastlane is kind of CLI tools, which can deploy `.ipa` file to Crashlytics/Testflight, or manage certificates/provisioning profiles from CLI.
