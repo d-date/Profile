@@ -3,7 +3,7 @@
 ![facebook](../imgs/IMG_7188.JPG)
 
 Daiki has been developing iOS apps for 7 years, since he was student.
-He is a member of organizers of [CLEM](https://clem.connpass.com), which is meetup for English learners of engineers / designers in Japan, and [fastlane funclub](https://fastlane.connpass.com), which is meetup for fastlane users in Japan. Also, sometimes translates [Realm News](https://news.realm.io/news/) into Japanese. He loves traveling in Japan, so recently he helps to hold meetups in Japan other than in Tokyo.
+He is a member of organizers of [CLEM](https://clem.connpass.com), which is meetup for English learners of engineers / designers in Japan, and [fastlane funclub](https://fastlane.connpass.com), which is meetup for fastlane users in Japan. Also, sometimes translates [Realm News](https://news.realm.io/news/) into Japanese. He loves traveling in Japan, so now he helps to hold meetups in Japan other than in Tokyo.
 
 ## SNS
 
