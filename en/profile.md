@@ -1,40 +1,49 @@
 # Daiki Matsudate
 
-I've developing iOS apps for 6 years since I was student, the Steve Jobs still alive.
+![facebook](../imgs/IMG_7188.JPG)
 
-I've making for Customer, such as the app searching recipes with words, the app making greeding cards using photo in your mobile and printing out and post it.
-
-I'm not only the developer, but also the marketer.
-After releasing app, I've watching user's interests and growth up by marketing analytics, such as push notification, email, or something events on app.
-
-To making good app for user, I'm trying not to forget the eye's of user.
-
-## icons
-
-![facebook](../imgs/IMG_7188.JPG.jpg)
+Daiki has been developing iOS apps for 7 years, since he was student.
+He is a member of organizers of [CLEM](https://clem.connpass.com), which is meetup for English learners of engineers / designers in Japan, and [fastlane funclub](https://fastlane.connpass.com), which is meetup for fastlane users in Japan. Also, sometimes translates [Realm News](https://news.realm.io/news/) into Japanese. He loves traveling in Japan, so recently he helps to hold meetups in Japan other than in Tokyo.
 
 ## SNS
 
-prefer to contact via Facebook / Twitter
-
-* [Facebook - Daiki Matsudate](https://www.facebook.com/matsudate.daiki)
-
-* [Twitter @d_date](https://twitter.com/d_date)
-
-* [GitHub - @d-date](https://github.com/d-date)
-
-* [Linked In](https://www.linkedin.com/in/daiki-matsudate-728272128)
-
-* [Upwork](https://www.upwork.com/o/profiles/users/_~01fdb03fcde98b0f90/)
+- [Twitter @d_date](https://twitter.com/d_date)
+- [Facebook - Daiki Matsudate](https://www.facebook.com/matsudate.daiki)
+- [GitHub - @d-date](https://github.com/d-date)
+- [Linked In](https://www.linkedin.com/in/daiki-matsudate-728272128)
+- [Upwork](https://www.upwork.com/o/profiles/users/_~01fdb03fcde98b0f90/)
 
 ## publication
 
-* [Realm News](https://realm.io/jp/news/)
+#### [Realm News](https://realm.io/jp/news/)
+Working as a translator.
+traslate [English](https://realm.io/news/) into [Japanese](https://realm.io/jp/news/)
 
-* [Qiita](http://qiita.com/d_date)
+#### [Medium](https://medium.com/@d_date)
 
-* [Medium](https://medium.com/@d_date)
+#### [Qiita](http://qiita.com/d_date)
+
+translate proposals of swift 4 into Japanese.
+
+- [Swift4で何が変わりそうなのか](http://qiita.com/d_date/items/b3562f542afc306791ce)
 
 ## LT
 
-* [Speaker Deck](https://speakerdeck.com/d_date)
+- [Speaker Deck](https://speakerdeck.com/d_date)
+
+## Organizing Meetups
+
+#### [Creators Learning English Meetup](https://clem.connpass.com/) / Core Staff
+
+English meetup for english learner of engineers / designers
+
+- [普段はiOSエンジニアの方が英語の話をするとすごかった](https://medium.com/@d_date/bd5ddd06fb21)
+- [CfPを出して、カンファレンスで登壇しよう](https://medium.com/@d_date/ebfb78d24945)
+
+#### [try!Swift 2017 TOKYO](https://www.tryswift.co/tokyo/en) / Staff
+
+The swift conference in Tokyo.
+
+#### [fastlane勉強会](https://fastlane.connpass.com/) / Core Staff
+
+The [fastlane](https://fastlane.tools/) funclub meetup in Tokyo. The fastlane is kind of CLI tools, which can deploy `.ipa` file to Crashlytics/Testflight, or manage certificates/provisioning profiles from CLI.
