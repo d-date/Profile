@@ -34,7 +34,7 @@ Realm Newsにはモバイルアプリ開発やその周辺技術に関するト�
 
 ## Meetup
 
-#### [try!Swift TOKYO 2018] (https://www.tryswift.co/tokyo/jp) / Organizer
+#### [try!Swift TOKYO 2018](https://www.tryswift.co/tokyo/jp) / Organizer
 
 2018年3月に開催される Swift の国際カンファレンスです。今年はがっつり関わっています。
 
