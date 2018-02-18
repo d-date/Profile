@@ -33,6 +33,10 @@ translate proposals of swift 4 into Japanese.
 
 ## Organizing Meetups
 
+#### [try!Swift TOKYO 2018](https://www.tryswift.co/tokyo/en) / Organizer
+
+The swift conference in Tokyo.
+
 #### [Creators Learning English Meetup](https://clem.connpass.com/) / Core Staff
 
 English meetup for english learner of engineers / designers
@@ -40,7 +44,7 @@ English meetup for english learner of engineers / designers
 - [普段はiOSエンジニアの方が英語の話をするとすごかった](https://medium.com/@d_date/bd5ddd06fb21)
 - [CfPを出して、カンファレンスで登壇しよう](https://medium.com/@d_date/ebfb78d24945)
 
-#### [try!Swift 2017 TOKYO](https://www.tryswift.co/tokyo/en) / Staff
+#### [try!Swift TOKYO 2017](https://www.tryswift.co/tokyo/en) / Staff
 
 The swift conference in Tokyo.
 
