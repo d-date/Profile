@@ -46,6 +46,10 @@ Realm Newsにはモバイルアプリ開発やその周辺技術に関するト�
 
 ## Meetup
 
+#### [try!Swift TOKYO 2018] (https://www.tryswift.co/tokyo/jp) / Organizer
+
+2018年3月に開催される Swift の国際カンファレンスです。今年はがっつり関わっています。
+
 #### [Creators Learning English Meetup](https://clem.connpass.com/) / Core Staff
 
 英語をがんばりたいエンジニアやデザイナーが集まって、知見を共有しあうミートアップです。LT枠の他に、実際に英語を使って仕事をしている方をゲストとしてお招きしています。
@@ -55,7 +59,7 @@ Realm Newsにはモバイルアプリ開発やその周辺技術に関するト�
 - [普段はiOSエンジニアの方が英語の話をするとすごかった](https://medium.com/@d_date/bd5ddd06fb21)
 - [CfPを出して、カンファレンスで登壇しよう](https://medium.com/@d_date/ebfb78d24945)
 
-#### [try!Swift 2017 TOKYO](https://www.tryswift.co/tokyo/jp) / Staff
+#### [try!Swift TOKYO 2017](https://www.tryswift.co/tokyo/jp) / Staff
 
 2017年3月に新宿で開催された、Swiftの国際カンファレンスです。
 
